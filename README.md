@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Adejo david (@dreplica)! I'm a software engineer with over 7 years of development. I am currently building a logistic application to help people take their resources (mostly home items) from one house to another.
+I am Adejo david (@dreplica)! I'm a software engineer with over 6 years of development. I am currently building a logistic application to help people take their resources (mostly home items) from one house to another.
 
 <!--
 **dreplica/dreplica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
