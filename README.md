@@ -31,3 +31,8 @@ With a background from a bootcamp and significant software development experienc
 ## Professional Goals 📈
 - Career Developemnt: Focused on furthering my career in software development, specifically I would like to finalise my product, but while that is pending, I intend to take up more roles that support leadership experience and technicall skills in uilding impactful software solutions.
 - Learning: I am currently more aggressive in upscaling my technical skills as well as soft skills. I am taking up courses to revamp on software development, AI, team collaboration annd communication.
+
+## Connect with Me 📨
+- 🐥 [twitter](https://x.com/dreplica)
+- 💌 <a href="mailto:thradishion@gmail.com">Email</a>
+- 🔗 [Linkedin](https://linkedin.com/in/adejo-david)
