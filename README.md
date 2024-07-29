@@ -36,3 +36,5 @@ With a background from a bootcamp and significant software development experienc
 - 🐥 [twitter](https://x.com/dreplica)
 - 💌 <a href="mailto:thradishion@gmail.com">Email</a>
 - 🔗 [Linkedin](https://linkedin.com/in/adejo-david)
+
+I am looking forward to collaborate on projects that can help create world solutions to problem. Reach out to me! ⏳
