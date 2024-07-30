@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 With a background from industrial physics and significant software development experience, I bring a unique combination of discipline, vision and technical skills to the programming world. My passion lies but not limited to teaching, developing robust software systems and creating applications that clients can rely on while also taking part in harnessing my software development skills.
 
 ## Technical Skills 🧰
-- Languages: Javascript, Typescript
-- Frameworks & Libraries: React, Next.js, Node.js, Express.js, Adonis.js
-- Tools & Platforms: Github, Docker, AWS, Vercel, Netlify
+- **Languages**: Javascript, Typescript
+- **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, Adonis.js
+- **Tools & Platforms******: Github, Docker, AWS, Vercel, Netlify
 
 ## Key Projects 📽
 - [Decagon Learning](https://decagonhq.com/): Worked as a consulting software engineer and instructor for training vetted software talents.
@@ -29,8 +29,8 @@ With a background from industrial physics and significant software development e
 - [Aircall](https://aircall.io): Imple ented Trial process for customers less than 10 signing up for VoIP service.
 
 ## Professional Goals 📈
-- Career Developemnt: Focused on furthering my career in software development, specifically I would like to finalise my product, but while that is pending, I intend to take up more roles that support leadership experience and technicall skills in uilding impactful software solutions.
-- Learning: I am currently more aggressive in upscaling my technical skills as well as soft skills. I am taking up courses to revamp on software development, AI, team collaboration annd communication.
+- **Career Developemnt**: Focused on furthering my career in software development, specifically I would like to finalise my product, but while that is pending, I intend to take up more roles that support leadership experience and technicall skills in uilding impactful software solutions.
+- **Learning**: I am currently more aggressive in upscaling my technical skills as well as soft skills. I am taking up courses to revamp on software development, AI, team collaboration annd communication.
 
 ## Connect with Me 📨
 - 🐥 [twitter](https://x.com/dreplica)
