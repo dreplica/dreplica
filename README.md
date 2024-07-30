@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-With a background from a bootcamp and significant software development experience, I bring a unique combination of discipline, vision and technical skills to the programming world. My passion lies but not limited to teaching, developing robust software systems and creating applications that clients can rely on while also taking part in harnessing my software development skills.
+With a background from industrial physics and significant software development experience, I bring a unique combination of discipline, vision and technical skills to the programming world. My passion lies but not limited to teaching, developing robust software systems and creating applications that clients can rely on while also taking part in harnessing my software development skills.
 
 ## Technical Skills 🧰
 - Languages: Javascript, Typescript
