@@ -37,4 +37,6 @@ With a background from industrial physics and significant software development e
 - 💌 <a href="mailto:thradishion@gmail.com">Email</a>
 - 🔗 [Linkedin](https://linkedin.com/in/adejo-david)
 
-I am looking forward to collaborate on projects that can help create world solutions to problem. Reach out to me! ⏳
+I am looking forward to collaborate on projects that can help create world solutions to problem. Reach out to me!⏳
+
+Thanks.
