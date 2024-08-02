@@ -39,4 +39,5 @@ With a background from industrial physics and significant software development e
 
 I am looking forward to collaborate on projects that can help create world solutions to problem. Reach out to me!⏳
 
+
 Thanks.
